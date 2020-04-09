@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "ES2017",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "outDir": "./.ts-out",
+        "module": "CommonJS",
+        "esModuleInterop": true,
+        "sourceMap": true,
+        "declaration": true,
+        "importHelpers": true,
+    }
+}
